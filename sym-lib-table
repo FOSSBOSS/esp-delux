@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "esp-rfid-relay-board-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/esp-rfid-relay-board-eagle-import.kicad_sym")(options "")(descr ""))
+)
